@@ -1,4 +1,4 @@
 # Trial
 This is my first Git Repository
 <br>
-Author - Animesh Acharya
+Author - Animesh Acharya(Trial)
